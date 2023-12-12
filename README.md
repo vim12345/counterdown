@@ -15,3 +15,10 @@ Test the countdown timer in your web browser. Make sure to check if the timer st
 
 2. Github Link -
  https://github.com/vim12345/counterdown/tree/main
+
+3. Host -
+
+4. Screenshot -
+5. 
+   ![Screenshot (152)](https://github.com/vim12345/counterdown/assets/90466387/4b3a05a1-7df4-4115-87b9-fe8839be9102)
+
