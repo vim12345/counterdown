@@ -12,3 +12,6 @@ Create the HTML structure with input fields for minutes, buttons for Start, Paus
 Apply basic styles to make the layout visually appealing.
 Implement the JavaScript logic to handle timer functionality - start, pause, reset, and display time.
 Test the countdown timer in your web browser. Make sure to check if the timer starts, pauses, and resets as expected. Debug any issues in the JavaScript code if needed
+
+2. Github Link -
+ https://github.com/vim12345/counterdown/tree/main
