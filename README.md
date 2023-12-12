@@ -16,7 +16,7 @@ Test the countdown timer in your web browser. Make sure to check if the timer st
 2. Github Link -
  https://github.com/vim12345/counterdown/tree/main
 
-3. Host -
+3. Host - https://counterdown-ten.vercel.app/
 
 4. Screenshot -
 5. 
